@@ -12,7 +12,6 @@ using Microsoft.EntityFrameworkCore;
 using ToDoList.Models;
 using Microsoft.Extensions.Logging;
 
-
 namespace ToDoList
 {
     public class Startup
